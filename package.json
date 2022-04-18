@@ -1,6 +1,6 @@
 {
   "name": "@fellwork/toolkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@7.0.0-rc.3",
   "description": "Fellwork tools",
   "keywords": [],
