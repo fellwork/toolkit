@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "bumpp",
+    "esbuild",
+    "esno",
+    "Guirt",
+    "vite",
+    "vitest"
+  ],
+  "eslint.packageManager": "pnpm",
+  "markdownlint.config": {
+    "default": true,
+    "MD007": { "indent": 4 },
+    "MD033": false,
+    "no-hard-tabs": false
+  }
+}
