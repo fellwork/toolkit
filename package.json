@@ -66,5 +66,8 @@
   },
   "engines": {
     "pnpm": ">=7.0.0-rc.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
